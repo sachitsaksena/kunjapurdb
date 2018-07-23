@@ -43,6 +43,9 @@ if (isset($_POST['submit'])) {
 <h2>Make an entry</h2>
 
 <form method="post">
+
+
+<form method="post">
     <label for="cell">Cell #</label>
     <input type="text" name="cell" id="cell">
     <label for="genus">Genus</label>
